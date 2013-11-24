@@ -1,0 +1,15 @@
+{
+  "name": "bin-shutdown",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "shutdown": "shutdown.js"
+  },
+  "dependencies": {
+  	"src-reboot": "~0.0.0",
+  	"src-errno": "~0.1.0"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
