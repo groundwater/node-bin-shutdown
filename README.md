@@ -1,6 +1,6 @@
 # NodeOS Shtudown Command
 
-<a href="https://nodeos.github.io"><img src="http://i.imgur.com/pIJu2TS.png" width=200 height=79/></a>
+<a href="http://nodeos.github.io"><img src="http://i.imgur.com/pIJu2TS.png" width=200 height=79/></a>
 
 ## Install
 
